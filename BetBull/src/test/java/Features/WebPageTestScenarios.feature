@@ -11,4 +11,4 @@ Feature: Webpage tests for BetBull
       |                        |             | An email address required. |
       | test@betbull.com       |             | Password is required. 			|
       |                        | testbetbull | An email address required. |
-      | validemail@betbull.com | password1   | Authentication failed.			|
+      | validemail@betbull.com | password1   | Authentication failed.			| 
